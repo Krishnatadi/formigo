@@ -1,0 +1,19 @@
+{
+  "name": "formigo",
+  "version": "1.0.0",
+  "description": "Formigo is a lightweight, easy-to-use validation library designed to streamline data validation in JavaScript applications. With a straightforward API, Formigo allows developers to define validation rules for their data inputs effortlessly. Whether you are building a web form, an API, or any JavaScript application that requires input validation, Formigo provides robust tools to ensure that your data meets the specified criteria.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+   "JavaScript", "validation", "library", "Form", "validation", "Data", "validation", "Input", "validation", "Email", "validation", "Required", "field", "validation", "Type", "checking", "in", "JavaScript", "Minimum", "length", "validation", "JavaScript", "validation", "utility", "Frontend", "validation", "framework"
+  ],
+  "author": "krishn atadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krishnatadi/formigo/issues"
+  },
+  "homepage": "https://github.com/Krishnatadi/formigo#readme"
+}
